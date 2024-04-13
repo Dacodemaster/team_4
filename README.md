@@ -1,0 +1,1 @@
+this projects constists of a group portfolio that is still in the make but it contains 4 sections these individual sections include landing page, about us page, gallery  and the contacts it is not integated to the database so the forms dont work
